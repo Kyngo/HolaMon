@@ -1,3 +1,1 @@
-<?php
-print "Hola món des de Catalunya!";
-?>
+<?= "Hola món des de Catalunya!"; ?>
